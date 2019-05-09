@@ -1,0 +1,15 @@
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\TextEditor.BisnessLogic.dll
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\TextEditor.BisnessLogic.pdb
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\TextEditor.EF.dll
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\TextEditorDatabase.dll
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\EntityFramework.dll
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\TextEditor.EF.pdb
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\TextEditor.EF.dll.config
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\TextEditorDatabase.pdb
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\EntityFramework.xml
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\bin\Debug\ru\EntityFramework.resources.dll
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\obj\Debug\TextEditor.BisnessLogic.csprojAssemblyReference.cache
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\obj\Debug\TextEditor.BisnessLogic.csproj.CoreCompileInputs.cache
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\obj\Debug\TextEditor.BisnessLogic.csproj.CopyComplete
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\obj\Debug\TextEditor.BisnessLogic.dll
+D:\Anzhelika\TextEditor\TextEditor.BisnessLogic\obj\Debug\TextEditor.BisnessLogic.pdb
