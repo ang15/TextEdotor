@@ -1,0 +1,13 @@
+D:\Anzhelika\TextEditor\TextEditor.EF\bin\Debug\TextEditor.EF.dll.config
+D:\Anzhelika\TextEditor\TextEditor.EF\bin\Debug\TextEditor.EF.dll
+D:\Anzhelika\TextEditor\TextEditor.EF\bin\Debug\TextEditor.EF.pdb
+D:\Anzhelika\TextEditor\TextEditor.EF\bin\Debug\EntityFramework.dll
+D:\Anzhelika\TextEditor\TextEditor.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anzhelika\TextEditor\TextEditor.EF\bin\Debug\EntityFramework.xml
+D:\Anzhelika\TextEditor\TextEditor.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anzhelika\TextEditor\TextEditor.EF\bin\Debug\ru\EntityFramework.resources.dll
+D:\Anzhelika\TextEditor\TextEditor.EF\obj\Debug\TextEditor.EF.csprojAssemblyReference.cache
+D:\Anzhelika\TextEditor\TextEditor.EF\obj\Debug\TextEditor.EF.csproj.CoreCompileInputs.cache
+D:\Anzhelika\TextEditor\TextEditor.EF\obj\Debug\TextEditor.EF.csproj.CopyComplete
+D:\Anzhelika\TextEditor\TextEditor.EF\obj\Debug\TextEditor.EF.dll
+D:\Anzhelika\TextEditor\TextEditor.EF\obj\Debug\TextEditor.EF.pdb

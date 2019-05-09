@@ -1,0 +1,5 @@
+D:\Anzhelika\TextEditor\TextEditorDatabase\bin\Debug\TextEditor.Database.dacpac
+D:\Anzhelika\TextEditor\TextEditorDatabase\bin\Debug\TextEditorDatabase.dll
+D:\Anzhelika\TextEditor\TextEditorDatabase\bin\Debug\TextEditorDatabase.pdb
+D:\Anzhelika\TextEditor\TextEditorDatabase\obj\Debug\TextEditorDatabase.dll
+D:\Anzhelika\TextEditor\TextEditorDatabase\obj\Debug\TextEditorDatabase.pdb
